@@ -2,7 +2,7 @@
 language: node_js
 node_js:
   - "10.5"
-install: yarn
+install: npm install
 cache:
   directories:
     - "node_modules"
