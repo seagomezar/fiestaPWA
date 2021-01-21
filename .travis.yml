@@ -8,4 +8,4 @@ cache:
 branches:
   only:
     - dev
-    - master
+    - main
